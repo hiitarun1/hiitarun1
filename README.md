@@ -10,16 +10,16 @@
 
 ### 🧰 Tools & Technologies I Use
 
-- 💻 Languages: `Java`, `JavaScript`, `HTML/CSS`
-- 🛠️ Tools: `Git`, `GitHub`, `VS Code`
-- 📦 Libraries/Frameworks: `Bootstrap`
+- Languages: `Java`, `JavaScript`, `HTML/CSS`
+- Tools: `Git`, `GitHub`, `VS Code`
+- Libraries/Frameworks: `Bootstrap`
 
 ---
 
 ### 🔭 Projects I'm Working On
 
-- ✅ To-Do List App using localStorage
-- 📚 DSA in Java (currently: Linked Lists & Stacks)
+- To-Do List App using localStorage
+- DSA in Java (currently: Linked Lists & Stacks)
 
 ---
 
