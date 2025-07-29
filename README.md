@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tarun
 
-🎓 I’m a **sophomore engineering student** who’s learning to **code and build real-world projects**.  
+🎓 I’m a **1st year engineering student** who’s learning to **code and build real-world projects**.  
 🌱 Currently learning **Git, GitHub, Web Development, and Java DSA**  
 💡 Exploring **HTML, CSS, JavaScript**, and working on small projects to sharpen my frontend skills   
 💻 I love solving problems and turning ideas into code  
