@@ -25,7 +25,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: `sweetforeigner0@gmail.com`
+- 📧 Email: `ktarunkushwaha@gmail.com`
 
 ---
 
