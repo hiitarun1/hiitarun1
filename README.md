@@ -1,3 +1,4 @@
+
 # 👋 Hi, I’m Tarun
 
 🎓 I’m a **2nd year engineering student** who’s learning to **code and build real-world projects**.  
@@ -31,6 +32,7 @@
 
 > *"Still learning, but building every day."*
 
+![1730822643993](https://github.com/user-attachments/assets/5692ca30-a31d-4f5b-b40d-05d52f656b69)<img width="291" height="291" alt="Postman - Postman API Fundamentals Student Expert - 2025-08-10 (2)" src="https://github.com/user-attachments/assets/4de8b22a-79e0-40f9-a301-91269f8023d1" />
 
 <!---
 hiitarun1/hiitarun1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
