@@ -17,21 +17,20 @@
 
 ---
 
-### 🔭 Projects I'm Working On
+### 🔭 Presently I'm Working On
 
-- To-Do List App using localStorage
-- DSA in Java (currently: Linked Lists & Stacks)
+- DSA in Java 
 
 ---
 
 ---
 
 > *"Still learning, but building every day."*
-
-
-<img width="291" height="291" alt="Postman - Postman API Fundamentals Student Expert - 2025-08-10 (2)" src="https://github.com/user-attachments/assets/4de8b22a-79e0-40f9-a301-91269f8023d1" />
-
-<img width="1526" height="825" alt="Screenshot 2024-11-05 211112" src="https://github.com/user-attachments/assets/04e70d61-4f23-4bf8-8275-9b6e5c4a7e0c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4de8b22a-79e0-40f9-a301-91269f8023d1" alt="Postman API Fundamentals Student Expert" width="200" />
+  <img src="https://github.com/user-attachments/assets/04e70d61-4f23-4bf8-8275-9b6e5c4a7e0c" alt="Certificate Screenshot" width="400" />
+  <img src="https://github.com/user-attachments/assets/bfc05290-4b1f-43f0-88b0-54d07824eeeb" alt="Contributor Badge" width="200" />
+</p>
 
 
 <!---
