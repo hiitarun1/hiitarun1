@@ -18,7 +18,9 @@
 
 ### 🔭 Presently I'm Working On
 
-- DSA in Java 
+- DSA in Java
+- SQL
+- Core Java
 
 ---
 
