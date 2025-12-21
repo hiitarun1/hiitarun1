@@ -29,8 +29,9 @@
 > *"Still learning, but building every day."*
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4de8b22a-79e0-40f9-a301-91269f8023d1" alt="Postman API Fundamentals Student Expert" width="200" />
-  <img src="https://github.com/user-attachments/assets/04e70d61-4f23-4bf8-8275-9b6e5c4a7e0c" alt="Certificate Screenshot" width="400" />
   <img src="https://github.com/user-attachments/assets/bfc05290-4b1f-43f0-88b0-54d07824eeeb" alt="Contributor Badge" width="200" />
+  <img width="1169" height="399" alt="Screenshot 2025-10-30 185239" src="https://github.com/user-attachments/assets/3c750656-04a2-485a-bb01-f9e237c8540a" />
+
 </p>
 
 
