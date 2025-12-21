@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Tarun
 
 🌱 Currently learning **Git, GitHub, Web Development, and Java DSA**  
-💡 Exploring **HTML, CSS, JavaScript**, and working on small projects to sharpen my frontend skills   
+💡 Exploring **HTML, CSS**, and working on small projects to sharpen my frontend skills   
 💻 I love solving problems and turning ideas into code  
 🚀 Looking forward to contributing to open-source projects and joining hackathons  
 
@@ -11,7 +11,7 @@
 ### 🧰 Tools & Technologies I Use
 
 - Languages: `Java`, `JavaScript`, `HTML/CSS`
-- Tools: `Git`, `GitHub`, `VS Code`
+- Tools: `Git`, `GitHub`, `VS Code`,`IntelliJ`
 - Libraries/Frameworks: `Bootstrap`
 
 ---
