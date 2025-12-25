@@ -10,7 +10,7 @@
 
 ### 🧰 Tools & Technologies I Use
 
-- Languages: `Java`, `JavaScript`, `HTML/CSS`
+- Languages: `Java`, `JavaScript(beginner)`, `HTML/CSS`
 - Tools: `Git`, `GitHub`, `VS Code`,`IntelliJ`
 - Libraries/Frameworks: `Bootstrap`
 
